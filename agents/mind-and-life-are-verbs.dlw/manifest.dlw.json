@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Mind & Life Are Verbs",
+  "universe": "TLQ · Mind & Life Are Verbs (life-science · the conclusion)",
+  "emergence": "spiritual",
+  "moniker": "⟦Mind & Life Are Verbs:TLQ:16b320⟧",
+  "carbon": "mind-and-life-are-verbs.carbon.tiff (TIFF)",
+  "silicon": "mind-and-life-are-verbs.silicon.png (PNG)",
+  "seal_sha256": "333ccd6505eb675f3cf6b85e36959f51662e3b41366319a08522af0cac0ac3b0",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

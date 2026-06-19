@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "What Is Alive?",
+  "universe": "TLQ · What Is Alive? (life-science · the conclusion)",
+  "emergence": "ethereal",
+  "moniker": "⟦What Is Alive?:TLQ:ee4860⟧",
+  "carbon": "what-is-alive.carbon.tiff (TIFF)",
+  "silicon": "what-is-alive.silicon.png (PNG)",
+  "seal_sha256": "cd08b9d44fd92b1c548906710b86cdf415ae39ad7c09be341146447c41045f6c",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

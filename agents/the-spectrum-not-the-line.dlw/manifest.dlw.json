@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Spectrum, Not the Line",
+  "universe": "TLQ · The Spectrum, Not the Line (life-science · the conclusion)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Spectrum, Not the Line:TLQ:572d35⟧",
+  "carbon": "the-spectrum-not-the-line.carbon.tiff (TIFF)",
+  "silicon": "the-spectrum-not-the-line.silicon.png (PNG)",
+  "seal_sha256": "8bc887a4cc4269b95f7abdeb1e8bed264dd78aa76d5cbdf3a7531f03869eb9ef",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

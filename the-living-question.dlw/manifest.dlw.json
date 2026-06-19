@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "THE LIVING QUESTION",
+  "universe": "TLQ · THE LIVING QUESTION (life-science · the conclusion)",
+  "emergence": "",
+  "moniker": "⟦THE LIVING QUESTION:TLQ:4f9c79⟧",
+  "carbon": "the-living-question.carbon.tiff (TIFF)",
+  "silicon": "the-living-question.silicon.png (PNG)",
+  "seal_sha256": "aa16f07f0cb0c7bb30ddfc2c9261c322871dfbb4c12a796f7cd6eae63c9e670b",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

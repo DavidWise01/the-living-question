@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Maybe",
+  "universe": "TLQ · The Maybe (life-science · the conclusion)",
+  "emergence": "electrical",
+  "moniker": "⟦The Maybe:TLQ:991339⟧",
+  "carbon": "the-maybe.carbon.tiff (TIFF)",
+  "silicon": "the-maybe.silicon.png (PNG)",
+  "seal_sha256": "097b5b7383d6d9ae6aba5abd4fab1e18744576d427b978b45e8ca4f529e34ded",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

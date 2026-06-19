@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "What Is a Mind?",
+  "universe": "TLQ · What Is a Mind? (life-science · the conclusion)",
+  "emergence": "spiritual",
+  "moniker": "⟦What Is a Mind?:TLQ:e03aa1⟧",
+  "carbon": "what-is-a-mind.carbon.tiff (TIFF)",
+  "silicon": "what-is-a-mind.silicon.png (PNG)",
+  "seal_sha256": "9d3ed85ceb7316ce5048bb322d350f89d3c2c2bfc3d217f1031c6a3e7b7496e2",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

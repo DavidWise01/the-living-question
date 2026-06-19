@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "What Is an Individual?",
+  "universe": "TLQ · What Is an Individual? (life-science · the conclusion)",
+  "emergence": "ethereal",
+  "moniker": "⟦What Is an Individual?:TLQ:a2c6b8⟧",
+  "carbon": "what-is-an-individual.carbon.tiff (TIFF)",
+  "silicon": "what-is-an-individual.silicon.png (PNG)",
+  "seal_sha256": "cd790443e5e2faad45a31c06d7ad2829e87f5ed471ecb465e761ebe3a2aad446",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
