@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 793
+slug  : the-living-question
+seal  : aa16f07f0cb0c7bb30ddfc2c9261c322871dfbb4c12a796f7cd6eae63c9e670b
+prev  : 8c7126cef82d6a53ecb2f8be8f40a3583c03fc9b9fdc56bb805b27ad5cd918ee
+link  : 9ae4c85d72455e705f82a0130ad2d58ba491b887af2d4a1cecf275d775b0c8f8
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
